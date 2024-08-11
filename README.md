@@ -1,3 +1,4 @@
+To visualize results implemeted using this repository, clone the repository and paste starter.md.html from NeRF/images on web browser
 Assignment 3
 ===================================
 
